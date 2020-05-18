@@ -1,0 +1,6 @@
+requests==2.22.0
+xmltodict==0.12.0
+isodate==0.6.0
+vvar==0.5
+SQLAlchemy
+bottle

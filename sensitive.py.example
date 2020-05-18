@@ -1,0 +1,9 @@
+import vvar
+
+REQREF = "xxxxxxxxx"
+URL = "https://example-domain.com/user/trias"
+SQL_URL = "mysql://user:password@host/database_name"
+
+vvar.env.reqref = REQREF
+vvar.env.baseurl = URL
+vvar.env.sqlurl = SQL_URL
